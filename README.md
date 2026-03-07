@@ -4,12 +4,6 @@ I am a mechanical engineering undergraduate at UCLA with a 3.89 GPA, expecting t
 
 ### 🚀 Featured Projects & Experience
 
-**Somnex | Cofounder**
-* Leading the design of a novel virtual reality headset to enhance engineering collaboration.
-* Hold a patent pending for a Dual Pancake Transparent Lens for mixed reality applications.
-* Leveraging the Optiland Python package to optimize proprietary lens configurations, resulting in a 15% higher resolution and an 80% improvement in lens efficiency.
-* Designing custom PCB elements for the motherboard utilizing KiCAD.
-
 **Bruin Formula Racing | Tractive Integration Responsible Engineer**
 * Integrating high voltage electronics with mechanical cooling and powertrain subsystems using SolidWorks.
 * Redesigned the service panel to improve efficiency by 75% and introduced more robust waterproofing solutions.
