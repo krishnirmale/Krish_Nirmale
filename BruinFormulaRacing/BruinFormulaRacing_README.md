@@ -6,7 +6,6 @@ As the Tractive Integration Responsible Engineer for Bruin Formula Racing, I int
 ## High Voltage Service Panel Design
 The CAD renders below showcase the high-voltage (HV) service panel mounted within the tubular chassis of our Formula car. 
 
-*(Note: Rename your image files in your repository to match these links, or update the links below to match your exact file names like `Screenshot 2026-03-06 180143.jpg`!)*
 
 ![HV Panel Internals](hv-panel-internals.jpg)
 ![HV Panel Chassis Integration](hv-panel-chassis.jpg)
